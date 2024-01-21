@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krismitrofanov" target="blank"><img src="https://img.shields.io/twitter/follow/krismitrofanov?logo=twitter&style=for-the-badge" alt="krismitrofanov" /></a> </p>
 
-- 🔭 I’m currently working on [Fitness-](https://github.com/Pavel-Romanov99/Fitness-) & [Fitness-plus-ui](https://github.com/Pavel-Romanov99/Fitness-plus-ui)
+- 🔭 I’m currently working on [FitnessDoc](https://github.com/KristiyanMitrofanov/FitnessDoc) & [FitnessDocUI](https://github.com/KristiyanMitrofanov/FitnessDocUI)
 
 - 🌱 I’m currently learning **Spring**
 
