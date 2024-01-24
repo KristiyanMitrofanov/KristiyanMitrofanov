@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [FitnessDoc](https://github.com/KristiyanMitrofanov/FitnessDoc) & [FitnessDocUI](https://github.com/KristiyanMitrofanov/FitnessDocUI)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring** & **React.js**
 
 - 📫 How to reach me **kristiyanmitrofanov@gmail.com**
 
