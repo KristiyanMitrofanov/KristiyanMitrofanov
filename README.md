@@ -1,4 +1,4 @@
-![Header](./profile-header.png)
+![Header](./profile-header.PNG)
 <h1 align="center">Hi 👋, I'm Kristiyan Mitrofanov</h1>
 <h3 align="center">A hardworking and ambitious programmer, who loves spending time coding, reading techincal books, working out and playing video games.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx6dzl3NzJhZmg3ZGc0eHF5Y29laWM2eGMxNWNqOHk5MmhndWF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
