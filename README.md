@@ -30,6 +30,8 @@
     <ul style="display: inline;">
         <li>Clean Code (Robert C. Martin)</li>
         <li>Inside the Machine (Jon Stokes)</li>
+        <li>Learning SQL (Alan Beaulieu)</li>
+        <li>Mastering Ethereum (Andreas M. Antonopoulos)</li>
     </ul>
     <img style="display: inline; margin-left: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyanmitrofanov&show_icons=true&locale=en&layout=compact" alt="kristiyanmitrofanov" />
 </div>
