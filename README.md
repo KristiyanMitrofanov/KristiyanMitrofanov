@@ -29,6 +29,7 @@
         <li>Mastering Ethereum (Andreas M. Antonopoulos)</li>
         <li>The Clean Coder (Robert C. Martin)</li>
         <li>Spring Start Here (Laurentiu Spilca)</li>
+        <li>Understanding Distributed Systems (Roberto Vitillo)</li>
     </ul>
     <img style="display: inline; margin-left: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyanmitrofanov&show_icons=true&locale=en&layout=compact" alt="kristiyanmitrofanov" />
 </div>
