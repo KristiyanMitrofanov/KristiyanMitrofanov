@@ -33,6 +33,8 @@
         <li>Spring Start Here (Laurentiu Spilca)</li>
         <li>Understanding Distributed Systems (Roberto Vitillo)</li>
         <li>System Design Interview: An Insider's Guide (Alex Xu)</li>
+        <li>Java Concurrency in Practice (Brian Goetz)</li>
+
     </ul>
     <img style="display: inline; margin-left: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyanmitrofanov&show_icons=true&locale=en&layout=compact" alt="kristiyanmitrofanov" />
 </div>
