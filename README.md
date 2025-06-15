@@ -40,6 +40,8 @@
             <li>Understanding Distributed Systems (Roberto Vitillo)</li>
             <li>System Design Interview: An Insider's Guide (Alex Xu)</li>
             <li>Java Concurrency in Practice (Brian Goetz)</li>
+            <li>Designing Data-Intensive Applications (Martin Kleppmann)</li>
+            <li>Kafka In Action (Dylan Scott, Dave Klein, Viktor Gamov)</li>
 </ul>
 
 
