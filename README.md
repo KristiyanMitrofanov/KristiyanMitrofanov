@@ -47,8 +47,6 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-            
-            </p>
 <br>
 <img align="right" src="https://leetcard.jacoblin.cool/kristiyan_mtrf">
 
@@ -65,6 +63,7 @@
             <li>Java Concurrency in Practice (Brian Goetz)</li>
             <li>Designing Data-Intensive Applications (Martin Kleppmann)</li>
             <li>Kafka In Action (Dylan Scott, Dave Klein, Viktor Gamov)</li>
+            <li>Kafka Streams In Action (William P. Bejeck Jr.)</li>
 </ul>
 
 
