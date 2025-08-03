@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krismitrofanov" target="blank"><img src="https://img.shields.io/twitter/follow/krismitrofanov?logo=twitter&style=for-the-badge" alt="krismitrofanov" /></a> </p>
 
-- 🔭 I’m currently working in [DevExperts](https://devexperts.com/)
+- 🔭 I’m currently working in [Nexo](https://nexo.com)
 
 - 🌱 I’m currently learning **Spring** & **React.js**
 
